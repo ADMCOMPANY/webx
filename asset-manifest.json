@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ADMCOMPANY/webx.git/static/css/main.4db848dd.css",
+    "main.js": "/ADMCOMPANY/webx.git/static/js/main.54b9ffe6.js",
+    "index.html": "/ADMCOMPANY/webx.git/index.html",
+    "main.4db848dd.css.map": "/ADMCOMPANY/webx.git/static/css/main.4db848dd.css.map",
+    "main.54b9ffe6.js.map": "/ADMCOMPANY/webx.git/static/js/main.54b9ffe6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4db848dd.css",
+    "static/js/main.54b9ffe6.js"
+  ]
+}
